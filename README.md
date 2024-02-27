@@ -7,18 +7,19 @@ This project is crucial skill for maximizing the potential of AI language models
 3. Training data and tokenization. LLMs are trained on vast datasets, tokenizing input data into smaller chunks (tokens) for processing. 
 #### Author : Cognitive Class AI
 
-Mentee assignment from IBM Advance AI @Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
+###### Mentee assignment from IBM Advance AI @Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
+
 
 ## Mentee Info
-Name : Meila Adisty Putri
-Program : IBM Advance AI
+- Name : Meila Adisty Putri
+- Program : IBM Advance AI
 
 # Tech Stack
-Python
-HTML
-Git
-LLM
-AI
+- Python
+- HTML
+- Git
+- LLM
+- AI
 
 # [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
